@@ -1,13 +1,13 @@
 # 3 EN RAYA
 
-App desarrollada para la práctica de react del bootcamp.
+App developed for the react project of the keepcoding bootcamp.
 
-## Instalar
+## Instal
 
-Para instalar la aplicación:
+To install the app:
 
-1. Clonar el repo.
-2. Instalar el repo `npm install`
-3. Lanzar la app:
-   1. Entorno de desarrollo `npm start`
-   2. Crear la app para producción `npm run build`
+1. Clone the repo.
+2. Install dependencies `npm install`
+3. Launch the app:
+   1. Development mode `npm start`
+   2. Production `npm run build`
